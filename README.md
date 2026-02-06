@@ -11,7 +11,7 @@ Projeto desenvolvido em Phyton para a disciplina de laborátorio.
 
 ## Tecnologias
 - Phyton
-- -JSON
+- JSON
 
 - ## Autora
 - Karine Vitória Rodrigues
